@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/collaborative-task-manager-frontend/static/css/main.f855e6bc.css",
+    "main.js": "/collaborative-task-manager-frontend/static/js/main.5df47465.js",
+    "static/js/453.109a0492.chunk.js": "/collaborative-task-manager-frontend/static/js/453.109a0492.chunk.js",
+    "index.html": "/collaborative-task-manager-frontend/index.html",
+    "main.f855e6bc.css.map": "/collaborative-task-manager-frontend/static/css/main.f855e6bc.css.map",
+    "main.5df47465.js.map": "/collaborative-task-manager-frontend/static/js/main.5df47465.js.map",
+    "453.109a0492.chunk.js.map": "/collaborative-task-manager-frontend/static/js/453.109a0492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5df47465.js"
+  ]
+}
